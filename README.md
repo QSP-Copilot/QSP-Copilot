@@ -64,4 +64,6 @@ By embedding AI-driven modules into each stage of the QSP workflow, **QSP-Copilo
   - **Model qualification reports**  
   - **Knowledge graphs**  
   - **Interactive visualizations**  
-- Facilitates interdisciplinary communication with auto-generated executive summaries and visual insights.  
+- Facilitates interdisciplinary communication with auto-generated executive summaries and visual insights.
+
+**Link to the app** - https://qspcopilot.streamlit.app/
