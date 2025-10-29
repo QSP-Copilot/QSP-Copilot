@@ -66,4 +66,4 @@ By embedding AI-driven modules into each stage of the QSP workflow, **QSP-Copilo
   - **Interactive visualizations**  
 - Facilitates interdisciplinary communication with auto-generated executive summaries and visual insights.
 
-**Link to the app** - https://qspcopilot.streamlit.app/
+[**Link to the app**](https://fireqsp.com/)
